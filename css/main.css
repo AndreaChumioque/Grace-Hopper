@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Crimson Text', serif;
+  font-weight: 400;
+}
+
+.biography {
+  background-color: red;
+}
+
+.summary {
+  background-color: green;
+}
